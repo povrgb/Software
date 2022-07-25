@@ -27,3 +27,4 @@ Las posibilidades de este software son para crear dibujos del tamaño de los car
 ![alt text](https://github.com/povrgb/Cosas/blob/main/img/pasos_data.png)
 
 Si necesitás ayuda para instalar estos programas podés ver el paso a paso en las presentaciones.
+https://github.com/povrgb/Cosas/blob/main/presentaciones/POV%20RGB%20-%20Segundo%20encuentro.pdf
