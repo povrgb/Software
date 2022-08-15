@@ -11,7 +11,7 @@ Aplicación para dibujar y crear diseños transferibles a las luces de la varita
 
 Aplicación que genera secuencias de encendido y apagado de luces con el objetivo de representar letras y diseños personalizados.
 La aplicación trabaja mandando la data binaria en una configuración de enviar el byte de salida en un mismo instante utilizando el Port Register, utiliza el port D. Esto evita utilizar las funciones convencionales de Arduino para tener un manejo más preciso de los tiempos de encendido y apagado de las luces para poder generar bien los diseños cargados.
-Data binaria se genera para el prender y apagar los LEds y a la vez se indica el color de la columna. Los colores son reducidos al RGB y combinaciones del mismo (rojo, verde, azul, cyan, magenta, amarillo, blanco).
+Los datos binarios se genera para el prender y apagar los LEDs y a la vez se indica el color de la columna. Los colores son reducidos al RGB y combinaciones del mismo (rojo, verde, azul, cyan, magenta, amarillo, blanco).
 
 ### Processing
 
